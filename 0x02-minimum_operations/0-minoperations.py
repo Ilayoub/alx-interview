@@ -1,10 +1,9 @@
 #!/usr/bin/python3
-""" The minOperations"""
+""" The Minimum Operations"""
 
 
 def minOperations(n):
     """
-    minOperations
     Gets fewest # of operations needed fot result in exactly n H characters
     """
     # all outputs should be at least 2 char: (min, Copy All => Paste)

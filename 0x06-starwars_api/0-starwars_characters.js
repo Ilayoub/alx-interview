@@ -1,5 +1,4 @@
 #!/usr/bin/node
-//Print all characters of a Star Wars movie//
 const util = require('util');
 const request = util.promisify(require('request'));
 const filmID = process.argv[2];

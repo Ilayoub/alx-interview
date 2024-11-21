@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""The Rotate 2D Matrix project"""
+"""
+The Rotate 2D Matrix project
+"""
 
 def rotate_2d_matrix(matrix):
     """
